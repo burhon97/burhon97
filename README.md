@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I'm currently learning **JavaScript**, **TypeScript**,**React Native**, **Libp2p** & **Golang** .
-- How to reach me: **codejoker97.com**
+- How to reach me: **codejoker97@gmail.com**
 
 ---
 
