@@ -164,6 +164,6 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=burhon97&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/burhon97/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=burhon97&show_icons=true)](https://github.com/burhon97/github-readme-stats)
 
 ---
