@@ -160,6 +160,14 @@ You can use the website to generate badges: https://shields.io/
             height="40"
           />
         </a>
+        <a href="https://dbdb.io/db/leveldb" target="_blank" rel="noreferrer">
+          <img
+            src="https://dbdb.io/media/logos/leveldb-horizontal.png.280x250_q85.png"
+            alt="postman"
+            width="40"
+            height="40"
+          />
+        </a>
       </p>
 
 ---
