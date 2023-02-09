@@ -164,7 +164,7 @@ You can use the website to generate badges: https://shields.io/
           <img
             src="https://dbdb.io/media/logos/leveldb-horizontal.png.280x250_q85.png"
             alt="postman"
-            width="40"
+            width="50"
             height="40"
           />
         </a>
