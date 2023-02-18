@@ -19,9 +19,7 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 <table align="center">
-  <tr >
     <td valign="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhon97&langs_count=10)](https://github.com/burhon97/github-readme-stats"/></td>
-  </tr>
 </table>
 
 ---
