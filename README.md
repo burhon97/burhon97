@@ -18,12 +18,16 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhon97&langs_count=10)](https://github.com/burhon97/github-readme-stats)
+<table align="center">
+  <tr >
+    <td valign="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhon97&langs_count=10)](https://github.com/burhon97/github-readme-stats"/></td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
- <p align="left">
+<h3 align="center">Languages and Tools:</h3>
+ <p align="center">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -172,6 +176,10 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=burhon97&show_icons=true)](https://github.com/burhon97/github-readme-stats)
+<table align="center">
+  <tr >
+    <td valign="center" ><img src="https://github-readme-stats.vercel.app/api?username=burhon97&show_icons=true)](https://github.com/burhon97/github-readme-stats"/></td>
+  </tr>
+</table>
 
 ---
