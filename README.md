@@ -161,7 +161,7 @@ You can use the website to generate badges: https://shields.io/
             src="https://dbdb.io/media/logos/leveldb-horizontal.png.280x250_q85.png"
             alt="postman"
             width="100"
-            height="70"
+            height="65"
           />
         </a>
         <a href="https://www.docker.com" target="_blank" rel="noreferrer">
