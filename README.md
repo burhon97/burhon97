@@ -171,3 +171,6 @@ You can use the website to generate badges: https://shields.io/
           />
         </a>
       </p>
+
+---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burhon97&show_icons=true&locale=en" alt="burhonkhon-idriskhonov" /></p>
