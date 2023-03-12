@@ -80,9 +80,9 @@ You can use the website to generate badges: https://shields.io/
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
             alt="nodejs"
-            width="60"
+            width="100"
             height="60"
           />
         </a>
@@ -167,6 +167,22 @@ You can use the website to generate badges: https://shields.io/
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker"
             width="60"
+            height="60"
+          />
+        </a>
+        <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg"
+            alt="swift"
+            width="60"
+            height="60"
+          />
+        </a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"§>
+          <img
+            src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"
+            alt="java"
+            width="40"
             height="60"
           />
         </a>
